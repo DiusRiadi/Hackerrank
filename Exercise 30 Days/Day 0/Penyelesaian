@@ -9,5 +9,6 @@ int main()
     string input_string; 
     getline(cin, input_string);    
     cout << "Hello, World." << endl;
+    cout << "Welcome to 30 Days of Code!"<<endl;
 return 0;
 }
