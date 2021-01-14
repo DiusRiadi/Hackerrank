@@ -1,0 +1,22 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+  int j ;
+  double k ;
+  string l ;
+    
+  // Declare second integer, double, and String variables.
+  cin >> j;
+  cin >> k;
+    
+  cin.ignore();  //ignores an end of line character 
+  getline(cin, l);
+    cout << i + j <<endl;
+    //this to make you can set number that after comma in result. 
+    cout << fixed << setprecision(1) << k + d << endl; 
+    cout << s + l <<endl;
+  
+    return 0;
+  }  
